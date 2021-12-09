@@ -9,6 +9,8 @@ import UIKit
 import XLPagerTabStrip
 
 class NewViewController: UIViewController {
+    
+    var name: String = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
