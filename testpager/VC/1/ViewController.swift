@@ -14,6 +14,7 @@ import Then
 class ViewController: ButtonBarPagerTabStripViewController {
 
     let pageCollection = UICollectionView()
+    let paes = UILabel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
